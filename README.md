@@ -13,6 +13,7 @@ I work with:
 ![CSS3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react)
+![Tailwindcss](https://img.shields.io/badge/Tailwiindcss-222222?style=for-the-badge&logo=tailwindcss)
 
 ---
 
