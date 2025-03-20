@@ -21,3 +21,6 @@ I work with:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joannie-210&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joannie-210&layout=compact&theme=radical)
 
+![GitHub followers](https://img.shields.io/github/followers/joannie-210?style=social)
+![GitHub stars](https://img.shields.io/github/stars/joannie-210?style=social)
+
