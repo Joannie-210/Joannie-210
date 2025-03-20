@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Joanna+Enoch!;just+a+chill+girl+that+codes!&color=%23FFD700&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Joanna+Enoch!;just+a+chill+girl+that+codes&color=%23FFD700&size=22)](https://git.io/typing-svg)
 
- Hi there 👋 I'm Joanna Enoch
+
 💻 Aspiring Full-Stack Developer | 🚀 Tech Enthusiast | ✍️ Writer  
 
 🔭 I’m currently working on **[Coming soon]
@@ -17,6 +17,6 @@ I work with:
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?joannie-210=joannie-210&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?joannie-210=joannie-210&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joannie-210&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joannie-210&layout=compact&theme=radical)
 
