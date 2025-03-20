@@ -24,6 +24,7 @@ I work with:
 ![GitHub followers](https://img.shields.io/github/followers/joannie-210?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/joannie-210?style=social)
 
-![Profile views](https://gpvc.arturio.dev/joannie-210)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=joannie-210)
+
 
 
