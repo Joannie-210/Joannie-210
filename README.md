@@ -24,5 +24,6 @@ I work with:
 ![GitHub followers](https://img.shields.io/github/followers/joannie-210?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/joannie-210?style=social)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joannie-210&theme=radical)
+![Profile views](https://gpvc.arturio.dev/joannie-210)
+
 
