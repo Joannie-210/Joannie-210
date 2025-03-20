@@ -1,6 +1,4 @@
- Hi there 👋 I'm Joanna Enoch, an aspiring software engineer and full stack developer.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding!&color=%2336BCF7&size=22)](https://git.io/typing-svg)
-
+ Hi there 👋 I'm Joanna Enoch, [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+just+a+chill+girl+that+loves+to+code!&color=%2336BCF7&size=22)](https://git.io/typing-svg)
 
 I work with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
