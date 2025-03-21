@@ -4,10 +4,12 @@
 💻 Aspiring Full-Stack Developer | 🚀 Tech Enthusiast | ✍️ Writer  
 
 🔭 I’m currently working on **[Coming soon]
-🌱 I’m learning **React, JavaScript, and C  
-💬 Ask me about ** JavaScript and React**  
+🌱 I’m learning React, JavaScript, and C 
+💬 Ask me about JavaScript and React
+🎯 My goal: Become a full-stack wizard in the next two years. 
 📫 How to reach me: **joannaenochdev@gmail.com
-I work with:
+Fun fact: 📖 I love writing stories when I’m not writing code.
+
 ### 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3)
