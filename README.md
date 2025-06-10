@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Joanna+Enoch!;just+a+chill+girl+that+codes&color=%23FFD700&size=22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I'm+Joanna+Enoch!;A+Frontend+developer&color=%23FFD700&size=22)](https://git.io/typing-svg)
 
 
 💻 Aspiring Full-Stack Developer | 🚀 Tech Enthusiast | ✍️ Writer  
